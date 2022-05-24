@@ -34,7 +34,7 @@ namespace InterfaceTerm
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-                //TestEdit2
+                //TestEdit
 
         }
 
